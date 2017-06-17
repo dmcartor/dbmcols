@@ -1,11 +1,12 @@
 Package: dbmcols
 Type: Package
 Title: DBM Colors for R Plots
-Version: 0.1.0
-Date: 2016-09-19
+Version: 0.1.1
+Date: 2017-06-16
 Author: Daniel B. McArtor (dmcartor@nd.edu) [aut, cre]
 Maintainer: Daniel B. McArtor <dmcartor@nd.edu>
 Description: Colors that I typically use in plots (colorblind friendly palette; ND branding)
+License: GPL (>= 2)
 LazyData: TRUE
 Depends:
     R (>= 3.0.0),
